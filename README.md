@@ -220,7 +220,7 @@ Additional project documentation is available in the Game Documentation file
 
 ## Spot the Difference Puzzle
 
-![Spot the Difference](Screenshots/spot-difference.png)
+![Spot the Difference](Screenshots/spot-diff.png)
 
 ## Inside Locker
 
