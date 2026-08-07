@@ -216,7 +216,7 @@ Additional project documentation is available in the Game Documentation file
 
 ## Sliding Block Puzzle
 
-![Sliding Block Puzzle](Screenshots/sliding-block.png)
+![Sliding Block Puzzle](Screenshots/sliding-box.png)
 
 ## Spot the Difference Puzzle
 
