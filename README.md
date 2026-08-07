@@ -71,12 +71,7 @@ This project was completed as a collaborative team project with three developers
 
 ## Documentation
 
-Additional project documentation is available in the **docs/** folder and includes:
-
-* UML Class Diagram
-* Use Case Diagram
-* Game Design Document
-* Project Planning Documentation
+Additional project documentation in the Design Documentation file 
 
 ---
 
