@@ -204,20 +204,39 @@ Additional project documentation is available in the Game Documentation file
 
 ## Main Room
 
-![Main Room](Screenshots/main-room.png)
+![Main Room](Screenshots/main-room.png) 
 
 ## Locker Room
 
 ![Locker Room](Screenshots/locker-room.png)
 
-## Spot the Difference Puzzle
-
-![Spot the Difference](Screenshots/spot-difference.png)
-
-## Memory Puzzle
+## Memory Puzzle Room
 
 ![Memory Puzzle](Screenshots/memory-puzzle.png)
 
 ## Sliding Block Puzzle
 
 ![Sliding Block Puzzle](Screenshots/sliding-block.png)
+
+## Spot the Difference Puzzle
+
+![Spot the Difference](Screenshots/spot-difference.png)
+
+## Inside Locker
+
+![Locker Room](Screenshots/inside-locker.png)
+
+## Decoder
+
+![Main Room](Screenshots/decoder.png) 
+
+## Door Lock
+
+![Main Room](Screenshots/lock.png) 
+
+## Vault
+
+![Main Room](Screenshots/vault.png) 
+
+
+
