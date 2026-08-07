@@ -151,6 +151,8 @@ The game window should open and be ready to play.
 
 ### Images are not loading
 
+!!!This project was originally developed on Windows, where file paths commonly use backslashes (`\`). Image paths will need to use forward slashes (`/`) when running on macOS or Linux.
+
 Make sure the game is being run from the main project folder.
 
 Correct:
