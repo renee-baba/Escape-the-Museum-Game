@@ -71,7 +71,7 @@ This project was completed as a collaborative team project with three developers
 
 ## Documentation
 
-Additional project documentation in the Design Documentation file 
+Additional project documentation in the Game Documentation file 
 
 ---
 
